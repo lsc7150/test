@@ -19,7 +19,7 @@ import kr.co.ezen.service.FaqService;
 @RequestMapping("/faq")
 @Controller
 public class FAQController {
-	
+	//branch test
 	
 	//FAQ 게시판
 	@Autowired
